@@ -1,7 +1,7 @@
 baseURL = 'https://patmoke.github.io/moke-makes/'
 languageCode = 'en-us'
 theme = 'graysx'
-title = 'MOKE MAKES'
+title = 'MOKE MAKE'
 
 ## Site Settings
 [params]
