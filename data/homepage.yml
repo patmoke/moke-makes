@@ -1,11 +1,12 @@
 # Main Title
 main:
   header:
-    title : "Graysx Theme" # Title Text
-    description : "Aut Deleniti Solu Facilis Idlau imq Atque Ac Itaqu A Co Volup Nu Quaecu Nec Archite At." # Title Desc
+    title : "Moke Makes" # Title Text
+    description : "Hand craft wood designs and furnishings" # Title Desc
     button:
       text: "Learn More" # Button Text
       url: "#about" # Button URL
+    image: "assets/img/MMclean.png"
 
 # About
 about:
